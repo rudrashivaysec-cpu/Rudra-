@@ -1,0 +1,8 @@
+{
+  "name": "Rider Track 360",
+  "description": "Rider delivery tracking app for managing orders, navigation, maps, and delivery status updates",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

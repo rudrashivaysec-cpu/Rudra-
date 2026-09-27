@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rider Track</string>
+    <string name="brand_subtitle">Rider Delivery Tracker</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="order_id">Order ID</string>
+    <string name="customer">Customer</string>
+    <string name="address">Address</string>
+    <string name="location_map">Location Map</string>
+    <string name="status">Status</string>
+    <string name="view_map">View Map</string>
+    <string name="find_address">Find Address</string>
+    <string name="navigate">Navigate</string>
+    <string name="no_deliveries">No deliveries assigned yet.</string>
+</resources>
